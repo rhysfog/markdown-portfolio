@@ -1,1 +1,1 @@
-![Loxodonta africana (African bush elephant)](https://github.com/rhysfog/rhysfog/blob/main/Elephant2.png)
+![Loxodonta africana (African bush elephant)](main/Elephant2.png)
