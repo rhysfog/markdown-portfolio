@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Loxodonta africana (African bush elephant)](https://github.com/rhysfog/rhysfog/blob/main/Elephant2.png)
